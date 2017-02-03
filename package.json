@@ -1,0 +1,19 @@
+{
+  "name": "codingchallenge",
+  "version": "1.0.0",
+  "description": "coding challenge 1 for Alpha Nodus",
+  "main": "convertJSON.js",
+  "scripts": {
+    "test": "mocha testing/test.js",
+    "start": "node textFromFile.js"
+  },
+  "author": "Henry Hedges",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  },
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}

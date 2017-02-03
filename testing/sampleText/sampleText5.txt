@@ -1,0 +1,1 @@
+[{"trackerID":"","nearby-assets":[{"assetID":1,"value":23},{"assetID":2,"value":44},{"assetID":3,"value":75}]}]
